@@ -1,0 +1,27 @@
+/********************************class selectors**********************************************/
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+/*
+img{
+  background-color: red;
+}
+*/
+
+/********************************class selectors**********************************************/
+.gobhi{
+  background-color: red;
+}
+.bacon{
+  background-color: green;
+}
+.circular{
+  border-radius: 50%;
+}
+
+/********************************Id selectors**********************************************/
+#heading{
+  color: blue;
+}
